@@ -211,7 +211,7 @@ public class EgovSampleController {
 	
 	
 	/**
-	 * Spread JS 테스트 화면 이동 
+	 * Spread JS 테스트 화면 이동  (엑셀 import 테스트)
 	 */	
 
 	@RequestMapping("/spreadJsTest.do")
